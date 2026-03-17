@@ -12,7 +12,7 @@ d-----        2026/03/17     11:47                git_challenge
 PS C:\Users\yanagihara_hajime\Desktop\Git> cd git_challenge
 PS C:\Users\yanagihara_hajime\Desktop\Git\git_challenge> git init
 Initialized empty Git repository in C:/Users/yanagihara_hajime/Desktop/Git/git_challenge/.git/
-PS C:\Users\yanagihara_hajime\Desktop\Git\git_challenge> echo "Hello,World!" >hello_world.txt
+PS C:\Users\yanagihara_hajime\Desktop\Git\git_challenge> echo "Hello, world!" >hello_world.txt
 PS C:\Users\yanagihara_hajime\Desktop\Git\git_challenge> git add hello_world.txt
 PS C:\Users\yanagihara_hajime\Desktop\Git\git_challenge> git commit -m"hello_world.txtを追加" 
 [main (root-commit) 80def16] hello_world.txtを追加
